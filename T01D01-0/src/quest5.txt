@@ -1,0 +1,14 @@
+cd door_management_files
+cd door_config
+cat door_1.conf
+
+Выбрал nano
+nano door_1.conf
+
+Поменял стату с CLOSED на OPEN
+Сохранил
+
+cat door_1.conf
+cd ..
+cd ..    - вернулся в директорию src
+touch quest5.txt

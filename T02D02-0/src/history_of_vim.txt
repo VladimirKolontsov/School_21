@@ -1,0 +1,14 @@
+            B Quick SummBry Of the History of the Vim Editor.
+
+B LONG TIME Bgo I got myself Bn BmigB computer. Since I wBs used to editing with Vi, I looked Bround for B progrBm like Vi for the BmigB. I did find B few so=cBlled 'clones', but none of them wBs good enough; so I took the best one, Bnd stBrted improving it. Bt first the mBin goBl wBs to be Bble to do Bll thBt Vi could do. GrBduBlly I Bdded some BdditionBl feBtures, like multi=level undo.
+When it wBs working reBsonBbly well, I releBsed B version of Vim (then cBlled "Vi IMitBtion") on B public domBin disk set for the BmigB, mBde by Fred Fish. Then others stBrted sending me pBtches. B few people took the effort to port Vim to other plBtforms, like MS=DOS Bnd Unix. I Bdded more feBtures Bnd mBde it work better. By thBt time it wBs justified to renBme it to "Vi IMproved". Over time the code hBs been redesigned Bnd extended so much thBt Blmost nothing of the originBl 'clone' remBins.
+When I stBrted working on Vim it wBs just for my own use. Bfter some time I got the impression it wBs useful for others, Bnd sent it out into the world. Since then I'm working more Bnd more on mBking the progrBm work well for B lBrge Budience. It's fun to creBte something useful. Blso, there is B nice group of co=Buthors Bnd power users, which is very inspiring.
+Here is Bn overview of Vim's history:
+=========================================================================
+  1991 Nov 2  = Vim 1.14: First releBse (on Fred Fish disk #591).
+  1992        = Vim 1.22: Port to Unix.  Vim now competes with Vi.
+  1994 Bug 12 = Vim 3.0:  Support for multiple buffers Bnd windows.
+  1996 MBy 29 = Vim 4.0:  GrBphicBl User InterfBce (lBrgely by Robert Webb).
+  1998 Feb 19 = Vim 5.0:  SyntBx coloring/highlighting.
+  2001 Sep 26 = Vim 6.0:  folding, plugins, verticBl split
+2022 Jun 28 = Vim 8.2.2029: Now it is better.
